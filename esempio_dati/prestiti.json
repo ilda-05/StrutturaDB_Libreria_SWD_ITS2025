@@ -1,0 +1,179 @@
+
+[
+    {
+      "id_prestito": 1,
+      "id_libro": 1,
+      "id_utente": 1,
+      "data_prestito": "2025-06-23",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 2,
+      "id_libro": 3,
+      "id_utente": 2,
+      "data_prestito": "2025-06-20",
+      "data_restituzione": "2025-06-27"
+    },
+    {
+      "id_prestito": 3,
+      "id_libro": 5,
+      "id_utente": 3,
+      "data_prestito": "2025-06-18",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 4,
+      "id_libro": 7,
+      "id_utente": 4,
+      "data_prestito": "2025-06-15",
+      "data_restituzione": "2025-06-22"
+    },
+    {
+      "id_prestito": 5,
+      "id_libro": 9,
+      "id_utente": 5,
+      "data_prestito": "2025-06-10",
+      "data_restituzione": "2025-06-17"
+    },
+    {
+      "id_prestito": 6,
+      "id_libro": 2,
+      "id_utente": 1,
+      "data_prestito": "2025-06-01",
+      "data_restituzione": "2025-06-10"
+    },
+    {
+      "id_prestito": 7,
+      "id_libro": 11,
+      "id_utente": 3,
+      "data_prestito": "2025-05-20",
+      "data_restituzione": "2025-05-27"
+    },
+    {
+      "id_prestito": 8,
+      "id_libro": 4,
+      "id_utente": 2,
+      "data_prestito": "2025-05-15",
+      "data_restituzione": "2025-05-22"
+    },
+    {
+      "id_prestito": 9,
+      "id_libro": 14,
+      "id_utente": 6,
+      "data_prestito": "2025-05-01",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 10,
+      "id_libro": 12,
+      "id_utente": 7,
+      "data_prestito": "2025-04-25",
+      "data_restituzione": "2025-05-05"
+    },
+    {
+      "id_prestito": 11,
+      "id_libro": 8,
+      "id_utente": 8,
+      "data_prestito": "2025-04-10",
+      "data_restituzione": "2025-04-20"
+    },
+    {
+      "id_prestito": 12,
+      "id_libro": 6,
+      "id_utente": 9,
+      "data_prestito": "2025-03-30",
+      "data_restituzione": "2025-04-07"
+    },
+    {
+      "id_prestito": 13,
+      "id_libro": 10,
+      "id_utente": 10,
+      "data_prestito": "2025-03-20",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 14,
+      "id_libro": 13,
+      "id_utente": 4,
+      "data_prestito": "2025-03-15",
+      "data_restituzione": "2025-03-25"
+    },
+    {
+      "id_prestito": 15,
+      "id_libro": 15,
+      "id_utente": 5,
+      "data_prestito": "2025-02-28",
+      "data_restituzione": "2025-03-10"
+    },
+    {
+      "id_prestito": 16,
+      "id_libro": 1,
+      "id_utente": 2,
+      "data_prestito": "2025-06-01",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 17,
+      "id_libro": 8,
+      "id_utente": 3,
+      "data_prestito": "2025-05-22",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 18,
+      "id_libro": 5,
+      "id_utente": 1,
+      "data_prestito": "2025-04-10",
+      "data_restituzione": "2025-04-20"
+    },
+    {
+      "id_prestito": 19,
+      "id_libro": 2,
+      "id_utente": 7,
+      "data_prestito": "2025-03-01",
+      "data_restituzione": "2025-03-10"
+    },
+    {
+      "id_prestito": 20,
+      "id_libro": 9,
+      "id_utente": 3,
+      "data_prestito": "2025-02-15",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 21,
+      "id_libro": 11,
+      "id_utente": 4,
+      "data_prestito": "2025-01-30",
+      "data_restituzione": "2025-02-10"
+    },
+    {
+      "id_prestito": 22,
+      "id_libro": 3,
+      "id_utente": 1,
+      "data_prestito": "2025-01-15",
+      "data_restituzione": "2025-01-25"
+    },
+    {
+      "id_prestito": 23,
+      "id_libro": 7,
+      "id_utente": 5,
+      "data_prestito": "2025-01-10",
+      "data_restituzione": null
+    },
+    {
+      "id_prestito": 24,
+      "id_libro": 14,
+      "id_utente": 6,
+      "data_prestito": "2024-12-28",
+      "data_restituzione": "2025-01-05"
+    },
+    {
+      "id_prestito": 25,
+      "id_libro": 12,
+      "id_utente": 2,
+      "data_prestito": "2024-12-15",
+      "data_restituzione": "2024-12-25"
+    }
+  ]
+

@@ -1,0 +1,75 @@
+[
+    {
+      "id_utente": 1,
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "email": "mario.rossi@example.com"
+    },
+    {
+      "id_utente": 2,
+      "nome": "Luca",
+      "cognome": "Bianchi",
+      "email": "luca.bianchi@example.com"
+    },
+    {
+      "id_utente": 3,
+      "nome": "Giulia",
+      "cognome": "Verdi",
+      "email": "giulia.verdi@example.com"
+    },
+    {
+      "id_utente": 4,
+      "nome": "Francesca",
+      "cognome": "Neri",
+      "email": "francesca.neri@example.com"
+    },
+    {
+      "id_utente": 5,
+      "nome": "Andrea",
+      "cognome": "Russo",
+      "email": "andrea.russo@example.com"
+    },
+    {
+      "id_utente": 6,
+      "nome": "Sara",
+      "cognome": "Fontana",
+      "email": "sara.fontana@example.com"
+    },
+    {
+      "id_utente": 7,
+      "nome": "Marco",
+      "cognome": "Galli",
+      "email": "marco.galli@example.com"
+    },
+    {
+      "id_utente": 8,
+      "nome": "Elena",
+      "cognome": "Costa",
+      "email": "elena.costa@example.com"
+    },
+    {
+      "id_utente": 9,
+      "nome": "Stefano",
+      "cognome": "Ferrari",
+      "email": "stefano.ferrari@example.com"
+    },
+    {
+      "id_utente": 10,
+      "nome": "Chiara",
+      "cognome": "Marini",
+      "email": "chiara.marini@example.com"
+    },
+    {
+      "id_utente": 11,
+      "nome": "Davide",
+      "cognome": "Rinaldi",
+      "email": "davide.rinaldi@example.com"
+    },
+    {
+      "id_utente": 12,
+      "nome": "Martina",
+      "cognome": "Conti",
+      "email": "martina.conti@example.com"
+    }
+  ]
+

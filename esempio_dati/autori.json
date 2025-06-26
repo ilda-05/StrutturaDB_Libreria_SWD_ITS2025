@@ -1,0 +1,62 @@
+[
+  {
+    "id_autore": 1,
+    "nome": "Umberto Eco"
+  },
+  {
+    "id_autore": 2,
+    "nome": "George Orwell"
+  },
+  {
+    "id_autore": 3,
+    "nome": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id_autore": 4,
+    "nome": "Jane Austen"
+  },
+  {
+    "id_autore": 5,
+    "nome": "J.R.R. Tolkien"
+  },
+  {
+    "id_autore": 6,
+    "nome": "Giuseppe Tomasi di Lampedusa"
+  },
+  {
+    "id_autore": 7,
+    "nome": "Fëdor Dostoevskij"
+  },
+  {
+    "id_autore": 8,
+    "nome": "Gabriel García Márquez"
+  },
+  {
+    "id_autore": 9,
+    "nome": "Ernest Hemingway"
+  },
+  {
+    "id_autore": 10,
+    "nome": "Miguel de Cervantes"
+  },
+  {
+    "id_autore": 11,
+    "nome": "Italo Svevo"
+  },
+  {
+    "id_autore": 12,
+    "nome": "Lev Tolstoj"
+  },
+  {
+    "id_autore": 13,
+    "nome": "Franz Kafka"
+  },
+  {
+    "id_autore": 14,
+    "nome": "Emily Brontë"
+  },
+  {
+    "id_autore": 15,
+    "nome": "Italo Calvino"
+  }
+]

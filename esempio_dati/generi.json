@@ -1,0 +1,30 @@
+[
+  {
+    "id_genere": 1,
+    "nome": "Storico"
+  },
+  {
+    "id_genere": 2,
+    "nome": "Distopico"
+  },
+  {
+    "id_genere": 3,
+    "nome": "Narrativa"
+  },
+  {
+    "id_genere": 4,
+    "nome": "Romanzo"
+  },
+  {
+    "id_genere": 5,
+    "nome": "Fantasy"
+  },
+  {
+    "id_genere": 6,
+    "nome": "Classico"
+  },
+  {
+    "id_genere": 7,
+    "nome": "Romanzo psicologico"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id_libro": 1,
+    "titolo": "Il nome della rosa",
+    "autore": {
+      "id_autore": 1,
+      "nome": "Umberto Eco"
+    },
+    "anno_pubblicazione": 1980,
+    "genere": {
+      "id_genere": 1,
+      "nome": "Storico"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 2,
+    "titolo": "1984",
+    "autore": {
+      "id_autore": 2,
+      "nome": "George Orwell"
+    },
+    "anno_pubblicazione": 1949,
+    "genere": {
+      "id_genere": 2,
+      "nome": "Distopico"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 3,
+    "titolo": "Il piccolo principe",
+    "autore": {
+      "id_autore": 3,
+      "nome": "Antoine de Saint-Exupéry"
+    },
+    "anno_pubblicazione": 1943,
+    "genere": {
+      "id_genere": 3,
+      "nome": "Narrativa"
+    },
+    "disponibile": false
+  },
+  {
+    "id_libro": 4,
+    "titolo": "Orgoglio e pregiudizio",
+    "autore": {
+      "id_autore": 4,
+      "nome": "Jane Austen"
+    },
+    "anno_pubblicazione": 1813,
+    "genere": {
+      "id_genere": 4,
+      "nome": "Romanzo"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 5,
+    "titolo": "Il signore degli anelli",
+    "autore": {
+      "id_autore": 5,
+      "nome": "J.R.R. Tolkien"
+    },
+    "anno_pubblicazione": 1954,
+    "genere": {
+      "id_genere": 5,
+      "nome": "Fantasy"
+    },
+    "disponibile": false
+  },
+  {
+    "id_libro": 6,
+    "titolo": "Il Gattopardo",
+    "autore": {
+      "id_autore": 6,
+      "nome": "Giuseppe Tomasi di Lampedusa"
+    },
+    "anno_pubblicazione": 1958,
+    "genere": {
+      "id_genere": 1,
+      "nome": "Storico"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 7,
+    "titolo": "Delitto e castigo",
+    "autore": {
+      "id_autore": 7,
+      "nome": "Fëdor Dostoevskij"
+    },
+    "anno_pubblicazione": 1866,
+    "genere": {
+      "id_genere": 6,
+      "nome": "Classico"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 8,
+    "titolo": "Cent'anni di solitudine",
+    "autore": {
+      "id_autore": 8,
+      "nome": "Gabriel García Márquez"
+    },
+    "anno_pubblicazione": 1967,
+    "genere": {
+      "id_genere": 3,
+      "nome": "Narrativa"
+    },
+    "disponibile": false
+  },
+  {
+    "id_libro": 9,
+    "titolo": "Il vecchio e il mare",
+    "autore": {
+      "id_autore": 9,
+      "nome": "Ernest Hemingway"
+    },
+    "anno_pubblicazione": 1952,
+    "genere": {
+      "id_genere": 3,
+      "nome": "Narrativa"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 10,
+    "titolo": "Don Chisciotte della Mancia",
+    "autore": {
+      "id_autore": 10,
+      "nome": "Miguel de Cervantes"
+    },
+    "anno_pubblicazione": 1605,
+    "genere": {
+      "id_genere": 6,
+      "nome": "Classico"
+    },
+    "disponibile": false
+  },
+  {
+    "id_libro": 11,
+    "titolo": "La coscienza di Zeno",
+    "autore": {
+      "id_autore": 11,
+      "nome": "Italo Svevo"
+    },
+    "anno_pubblicazione": 1923,
+    "genere": {
+      "id_genere": 7,
+      "nome": "Romanzo psicologico"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 12,
+    "titolo": "Anna Karenina",
+    "autore": {
+      "id_autore": 12,
+      "nome": "Lev Tolstoj"
+    },
+    "anno_pubblicazione": 1877,
+    "genere": {
+      "id_genere": 4,
+      "nome": "Romanzo"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 13,
+    "titolo": "Il processo",
+    "autore": {
+      "id_autore": 13,
+      "nome": "Franz Kafka"
+    },
+    "anno_pubblicazione": 1925,
+    "genere": {
+      "id_genere": 4,
+      "nome": "Romanzo"
+    },
+    "disponibile": false
+  },
+  {
+    "id_libro": 14,
+    "titolo": "Cime tempestose",
+    "autore": {
+      "id_autore": 14,
+      "nome": "Emily Brontë"
+    },
+    "anno_pubblicazione": 1847,
+    "genere": {
+      "id_genere": 4,
+      "nome": "Romanzo"
+    },
+    "disponibile": true
+  },
+  {
+    "id_libro": 15,
+    "titolo": "Il barone rampante",
+    "autore": {
+      "id_autore": 15,
+      "nome": "Italo Calvino"
+    },
+    "anno_pubblicazione": 1957,
+    "genere": {
+      "id_genere": 3,
+      "nome": "Narrativa"
+    },
+    "disponibile": false
+  }
+]
